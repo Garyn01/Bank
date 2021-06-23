@@ -1,0 +1,24 @@
+N- new functionality
+Q- QoL, something that should be there but just isn't
+P- Pretty stuff
+
+ Q fix double acting funky - tons of zeroes and random numbers //might be fixed?
+ \ might want to change it to bigdecimal to not convert it all the time.
+ Q updating account number automagically
+ Q exception handling
+ Q bad data handling
+ Q building number in account
+Q search conditions functionality
+Q make menuboxes automatically load
+
+ N online functionality
+N setup git
+N add login functionality
+
+P more dialogboxes/choiceboxes
+P cleanup - names of fields, names of variables should be uniform
+P getMoney,setMoney for string - same for PESEL
+P comments everywhere
+P prettier code for scene changing
+P CSS styling (darkmode!)
+P cleanup GUI
